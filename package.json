@@ -1,0 +1,19 @@
+{
+  "name": "b2bcoffeapi",
+  "version": "1.0.0",
+  "description": "Proyecto para creeación de una API para B2BCOFFE",
+  "main": "index.js",
+  "scripts": {
+    "dbcoffe": "nodemon index.js"
+  },
+  "author": "B2BCOFFE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,17 @@
+const coleccion = require('<ARCHIVO DE OPERACIONES>');
+const operaciones = {};
+
+operaciones.getProductore = async function(req, res) {}
+
+operaciones.getProductores = async function(req, res) {}
+
+operaciones.crearProductore = async function(req, res) {}
+
+operaciones.actualizarProductore = async function(req, res) {}
+
+operaciones.borrarProductore = async function(req, res) {}
+
+module.exports = operaciones
+
+PARA QUE MARLON REVISE
+
